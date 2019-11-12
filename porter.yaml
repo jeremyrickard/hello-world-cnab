@@ -5,7 +5,7 @@
 
 name: HELLO
 version: 0.0.1
-description: "A simple bundle"
+description: "A simple bundle to build"
 invocationImage: jeremyrickard/cnan-hello:v0.0.1
 tag: jeremyrickard/cnab-hello-world:v0.0.1
 
