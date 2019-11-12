@@ -8,5 +8,3 @@ jobs:
     steps:
     - name: test
       run: echo "hello"
-    - name: Setup Porter
-      uses: jeremyrickard/porter-gh-action@master
